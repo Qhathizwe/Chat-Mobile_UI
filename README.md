@@ -205,7 +205,7 @@ Make sure you have installed:
 Open your terminal or command prompt and run:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Qhathizwe/Chat-Mobile_UI.git
 ```
 
 ### 2. Open the Project Folder
