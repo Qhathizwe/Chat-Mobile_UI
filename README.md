@@ -1,4 +1,5 @@
-# Messaging App UI – mLab UI Challenge
+<img src="https://socialify.git.ci/Qhathizwe/Chat-Mobile_UI/image?language=1&name=1&owner=1&stargazers=1&theme=Auto" alt="Chat-Mobile_UI" width="640" height="320" />
+# Messaging App UI – UI Challenge
 
 ## 📌 Project Overview
 
@@ -206,8 +207,6 @@ Open your terminal or command prompt and run:
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
 
 ### 2. Open the Project Folder
 
